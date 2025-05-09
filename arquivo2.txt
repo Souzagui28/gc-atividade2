@@ -1,1 +1,2 @@
 texto2
+Alteração do arquivo2 na branch teste
